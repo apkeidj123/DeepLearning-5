@@ -14,13 +14,11 @@ Use emnist-balanced-train.csv and add a row of number above the top row.
 
 Each row:
 
-Original Input
+1.Original Input
+2.Original Input with noise
+3.Restore with via VAE
+4.Random generate image
 
-Original Input with noise
-
-Restore with via VAE
-
-Random generate image
 
 
 * Choose two components from your latent variable and plot the reconstructed images by varying the value of the latent variable.
