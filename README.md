@@ -12,7 +12,7 @@ Use emnist-balanced-train.csv and add a row of number above the top row.
 
 ![image](https://github.com/apkeidj123/DeepLearning-5/blob/master/output/ALL.jpg)
 
-Each row:
+Each row in the image above:
 
 1. Original Input
 2. Original Input with noise
